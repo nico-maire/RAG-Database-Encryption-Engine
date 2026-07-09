@@ -1,0 +1,6 @@
+id,full_name,email,ssn,credit_card,medical_condition,consultation_notes
+1,John Doe,john.doe@email.com,123-45-678,4532-1111-2222-3333,Mild Asthma,Patient reported shortness of breath during exercise. Needs inhaler.
+2,Jane Smith,jane.s@email.com,876-54-321,4444-5555-6666-7777,Penicillin Allergy,Requires alternative antibiotics for current dental infection.
+3,Michael Brown,michael.b@email.com,112-23-344,4999-8888-7777-6666,Hypertension,Blood pressure is stable with current daily medication.
+4,Emily Davis,emily.d@email.com,556-67-788,4123-4567-8901-2345,Type 1 Diabetes,Insulin dosage was adjusted last week. Glucose levels normal.
+5,David Wilson,david.w@email.com,998-87-766,4555-4444-3333-2222,None,Routine checkup showed no anomalies. Healthy patient.
